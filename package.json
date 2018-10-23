@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_package",
+  "version": "1.0.0",
+  "description": "A package for BAMazon.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkat44/BAMazon.git"
+  },
+  "author": "Mary Carr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkat44/BAMazon/issues"
+  },
+  "homepage": "https://github.com/mkat44/BAMazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
